@@ -497,7 +497,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     vendor/leeco/msm8996-common/proprietary/lib/vendor.qti.hardware.iop@1.0.so:system/lib/vendor.qti.hardware.iop@1.0.so \
     vendor/leeco/msm8996-common/proprietary/lib/vendor.qti.hardware.perf@1.0.so:system/lib/vendor.qti.hardware.perf@1.0.so \
+	vendor/leeco/msm8996-common/proprietary/vendor/lib64/hw/vendor.qti.gnss@1.0-impl.so:system/vendor/lib64/hw/vendor.qti.gnss@1.0-impl.so \
+    vendor/leeco/msm8996-common/proprietary/vendor/lib64/hw/android.hardware.gnss@1.0-impl-qti.so:system/vendor/lib64/hw/android.hardware.gnss@1.0-impl-qti.so \
     vendor/leeco/msm8996-common/proprietary/lib64/vendor.qti.hardware.iop@1.0.so:system/lib64/vendor.qti.hardware.iop@1.0.so \
+	vendor/leeco/msm8996-common/proprietary/lib64/libgptutils.so:system/lib64/libgptutils.so \
     vendor/leeco/msm8996-common/proprietary/lib64/vendor.qti.hardware.perf@1.0.so:system/lib64/vendor.qti.hardware.perf@1.0.so \
     vendor/leeco/msm8996-common/proprietary/vendor/bin/energy-awareness:system/vendor/bin/energy-awareness \
     vendor/leeco/msm8996-common/proprietary/vendor/bin/hw/vendor.qti.hardware.iop@1.0-service:system/vendor/bin/hw/vendor.qti.hardware.iop@1.0-service \
