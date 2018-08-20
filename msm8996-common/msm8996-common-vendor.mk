@@ -498,9 +498,9 @@ PRODUCT_PACKAGES += \
     UEIQuicksetSDKLeTV \
     ims \
     uceShimService \
-    CNEService \
+#    CNEService \
     com.qualcomm.location \
-    dpmserviceapp \
+#    dpmserviceapp \
     qcrilmsgtunnel \
     TimeService \
     ReferenceFeature \
