@@ -487,8 +487,10 @@ PRODUCT_PACKAGES += \
     UEIQuicksetSDKLeTV \
     ims \
     uceShimService \
+    CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
+    dpmserviceapp \
     libantradio \
     TimeService
 PRODUCT_COPY_FILES += \
