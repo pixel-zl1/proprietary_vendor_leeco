@@ -490,11 +490,13 @@ PRODUCT_PACKAGES += \
     UEIQuicksetSDKLeTV \
     ims \
     uceShimService \
+    CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
     TimeService \
     ReferenceFeature \
-    libantradio
+    libantradio \
+    dpmserviceapp
 
 PRODUCT_COPY_FILES += \
     vendor/leeco/msm8996-common/proprietary/lib/vendor.qti.hardware.iop@1.0.so:system/lib/vendor.qti.hardware.iop@1.0.so \
