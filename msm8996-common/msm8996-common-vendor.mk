@@ -490,7 +490,6 @@ PRODUCT_PACKAGES += \
     CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
-    dpmserviceapp \
     libantradio \
     TimeService
 PRODUCT_COPY_FILES += \
