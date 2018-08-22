@@ -495,8 +495,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     TimeService \
     ReferenceFeature \
-    libantradio \
-    dpmserviceapp
+    libantradio
 
 PRODUCT_COPY_FILES += \
     vendor/leeco/msm8996-common/proprietary/lib/vendor.qti.hardware.iop@1.0.so:system/lib/vendor.qti.hardware.iop@1.0.so \
