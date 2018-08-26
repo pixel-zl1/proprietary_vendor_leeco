@@ -46,6 +46,8 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/msm8996-common/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/leeco/msm8996-common/proprietary/lib/com.qualcomm.qti.dpm.api@1.0.so:system/lib/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/leeco/msm8996-common/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
+    vendor/leeco/msm8996-common/proprietary/lib/libqservice.so:system/lib/libqservice.so \
+    vendor/leeco/msm8996-common/proprietary/lib/libqdutils.so:system/lib/libqdutils.so\
     vendor/leeco/msm8996-common/proprietary/lib/libdpmctmgr.so:system/lib/libdpmctmgr.so \
     vendor/leeco/msm8996-common/proprietary/lib/libdpmfdmgr.so:system/lib/libdpmfdmgr.so \
     vendor/leeco/msm8996-common/proprietary/lib/libdpmframework.so:system/lib/libdpmframework.so \
